@@ -1,4 +1,4 @@
-# spotify-Clone
+# Spotify-Clone
 
 ## Imersão-Frontend_Alura
 
